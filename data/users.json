@@ -1,0 +1,46 @@
+[
+  {
+    "id": "usr_1793440867588_2rgnzm",
+    "name": "Test Student",
+    "phone": "9876543210",
+    "email": "student_test@example.com",
+    "password": "$2b$10$5q5AVzNO5GwgNqmnzupvBuyb2hrCZ1fzVm//ZS064Yux8v.RC3FRS",
+    "createdAt": "2026-10-31T10:01:07.588Z"
+  },
+  {
+    "id": "usr_1793441410848_7rhzoa",
+    "name": "Supabase Student",
+    "phone": "+91 9988776655",
+    "email": "student.homework.1793441409135@gmail.com",
+    "password": "$2b$10$jDmOu7L/oRlNrnbIPCzPpeHjGKUg40bEeizaVVc8QEzWjUPeyO6eq",
+    "supabaseConnected": false,
+    "createdAt": "2026-10-31T10:10:10.848Z"
+  },
+  {
+    "id": "usr_1793442089135_tyvdqe",
+    "name": "Ankit kumar",
+    "phone": "9229963098",
+    "email": "ankitkumar922996@gmail.com",
+    "password": "$2b$10$4nyawI6pEZtxrAXueDWnmOUqxTCQoX8Fjp3kRUjhAyF6l9aE4niUu",
+    "supabaseConnected": false,
+    "createdAt": "2026-10-31T10:21:29.135Z"
+  },
+  {
+    "id": "usr_1793442588921_82s2ar",
+    "name": "Ankit kumar",
+    "phone": "9229963098",
+    "email": "ankitkumar9226@gmail.com",
+    "password": "$2b$10$UcpYD2CFU3VaW3aoZNL1PuOiOVKrsqUd0.XWRsIlVHu6ZeiJvwo9i",
+    "supabaseConnected": false,
+    "createdAt": "2026-10-31T10:29:48.921Z"
+  },
+  {
+    "id": "usr_1793443176118_j7soz2",
+    "name": "Ankit kumar",
+    "phone": "9229963076",
+    "email": "ankitkumar927626@gmail.com",
+    "password": "$2b$10$MrhuyLpn2r1VxEVqzDNuZOQoDXix./Z.VyG5c83YtgloudLIcBtPW",
+    "supabaseConnected": true,
+    "createdAt": "2026-10-31T10:39:37.584Z"
+  }
+]
